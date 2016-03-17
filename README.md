@@ -1,2 +1,2 @@
 # coolweather
-This is a test Android project.
+This is a  Android project.This is a weather App.
